@@ -33,10 +33,9 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,githubactions,vim,figma,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,githubactions,vim,figma,aws,vercel" />
   </a>
 </p>
-
 <!--
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tf63&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=atcoder" />
