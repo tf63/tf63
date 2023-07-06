@@ -26,7 +26,7 @@
 <h3 align="left">Developments :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,django,laravel,unity,jquery,react,vite,nodejs,mysql,postgres,nginx" />
+    <img src="https://skillicons.dev/icons?i=pytorch,django,laravel,androidstudio,unity,jquery,react,vite,nodejs,mysql,postgres,nginx" />
   </a>
 </p>
 
