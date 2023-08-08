@@ -2,12 +2,12 @@
 ![](https://komarev.com/ghpvc/?username=tf63)[![My Qiita posts](https://qiita-badge.apiapi.app/s/tf63/posts.svg)](http://qiita.com/tf63)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tf63/contributions.svg)](http://qiita.com/tf63)
 
 <p align="left"> 
-  <img alt="git" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tf63&show_icons=true&theme=tokyonight" />
-  <img alt="git" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tf63&theme=tokyonight&utcOffset=8" />
+  <img alt="git" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tf63&show_icons=true&theme=tokyonight" />
+  <img alt="git" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tf63&theme=tokyonight&utcOffset=8" />
 </p>
 
 
-<img alt="profile-detail" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tf63&theme=tokyonight" />
+<img alt="profile-detail" width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tf63&theme=tokyonight" />
 
 <!-- <p align="left"> <a href="https://twitter.com/tqfv63" target="blank"><img src="https://img.shields.io/twitter/follow/tqfv63?logo=twitter&style=for-the-badge" alt="tqfv63" /></a> </p> -->
 
@@ -80,8 +80,8 @@
 </p>-->
 
 <p align="left"> 
-  <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tf63&theme=tokyonight" />
-  <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tf63&theme=tokyonight" />
+  <img alt="git" width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tf63&theme=tokyonight" />
+  <img alt="git" width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tf63&theme=tokyonight" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80%" src="https://github-profile-trophy.vercel.app/?username=tf63&no-frame=true&theme=tokyonight" alt="tf63" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=tf63&no-frame=true&theme=tokyonight" alt="tf63" /></a> </p>
