@@ -80,8 +80,8 @@
 </p>-->
 
 <p align="left"> 
-  <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tf63&theme=tokyonight" />
-  <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tf63&theme=tokyonight" />
+  <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tf63&theme=tokyonight&exclude=CSS,dockerfile" />
+  <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tf63&theme=tokyonight&exclude=CSS,dockerfile" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80%" src="https://github-profile-trophy.vercel.app/?username=tf63&no-frame=true&theme=tokyonight" alt="tf63" /></a> </p>
