@@ -31,13 +31,14 @@
   </a>
 </p>
 
+<!--
 <h3 align="left">Learning:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,fastapi,graphql,mysql,nest,jest" />
   </a>
 </p>
-
+-->
 
 <!--
 <p align="left">
