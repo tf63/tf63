@@ -14,7 +14,7 @@
 
 | Favorite Languages | Favorite Techs |
 | --- | --- | 
-|<img height=50.7px src="https://skillicons.dev/icons?i=py,go,ts,kotlin" /> |<img height=50.7px  src="https://skillicons.dev/icons?i=docker,react,next,unity,vercel,mysql,postgres,supabase" />|
+|<img height=50.7px src="https://skillicons.dev/icons?i=py,go,ts,kotlin" /> |<img height=50.7px  src="https://skillicons.dev/icons?i=docker,react,next,unity,pytorch,mysql,postgres,supabase" />|
 
 <!--
 <h3 align="left">Favorite Techs:</h3>
