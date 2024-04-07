@@ -1,6 +1,6 @@
-[X (Twitter)](https://twitter.com/tqfv63) | [Qiita](https://qiita.com/tf63) | [Zenn](https://zenn.dev/tf63) | [Presentation & Slides](https://www.docswell.com/user/8590143908) | [AtCoder](https://www.docswell.com/user/8590143908)
-
 ![](https://komarev.com/ghpvc/?username=tf63)[![My Qiita posts](https://qiita-badge.apiapi.app/s/tf63/posts.svg)](http://qiita.com/tf63)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tf63/contributions.svg)](http://qiita.com/tf63)
+
+[X (Twitter)](https://twitter.com/tqfv63) | [Qiita](https://qiita.com/tf63) | [Zenn](https://zenn.dev/tf63) | [Presentation & Slides](https://www.docswell.com/user/8590143908) | [AtCoder](https://www.docswell.com/user/8590143908)
 
 <!-- ################################################################################## -->
 <!-- CONNECT -->
