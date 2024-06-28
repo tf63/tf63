@@ -4,44 +4,15 @@
 
 [X (Twitter)](https://twitter.com/tqfv63) | [Qiita](https://qiita.com/tf63) | [Zenn](https://zenn.dev/tf63) | [Presentation & Slides](https://www.docswell.com/user/8590143908) | [AtCoder](https://atcoder.jp/users/fuku63)
 
-<!-- ################################################################################## -->
-<!-- CONNECT -->
-<!-- ################################################################################## -->
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fuku63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuku63" height="30" width="40" /></a>
-<p align="left"> <a href="https://twitter.com/tqfv63" target="blank"><img src="https://img.shields.io/twitter/follow/tqfv63?logo=twitter&style=for-the-badge" alt="tqfv63" /></a> </p>
-</p>-->
-
 | Favorite Languages | Favorite Techs |
 | --- | --- | 
-|<img height=50.7px src="https://skillicons.dev/icons?i=py,go,ts,kotlin" /> |<img height=50.7px  src="https://skillicons.dev/icons?i=docker,react,next,unity,pytorch,mysql,postgres,gcp" />|
+|<img height=50.7px src="https://skillicons.dev/icons?i=py,go,ts" /> |<img height=50.7px  src="https://skillicons.dev/icons?i=docker,tailwindcss,react,next,mysql,postgres,unity,pytorch,gcp" />|
 
-<!--
-<h3 align="left">Favorite Techs:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,ts,kotlin" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,react,next,unity,vercel,supabase,prisma,postgres" />
-  </a>
-</p>
--->
-
-<!--<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tf63&layout=compact&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true&hide=css,dockerfile&exclude_repo=atcoder" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tf63&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" />
-</p>-->
-
-| Github Stats | Top Languages |
+|  |  |
 | --- | --- |
 | <img alt="Github Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=tf63&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" />|<img height="170px" alt="git"  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tf63&count_private=true&theme=tokyonight&exclude=CSS,dockerfile" />|
 
-| Github Trophy |
+| |
 | --- |
 |<img height="241px" src="https://github-profile-trophy.vercel.app/?username=tf63&no-frame=true&theme=tokyonight&column=6" alt="tf63" />|
 
