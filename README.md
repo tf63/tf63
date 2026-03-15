@@ -7,18 +7,4 @@
 
 | Favorite Languages | Favorite Techs |
 | ------------------ | -------------- |
-
-| <img height="40px" src="./assets/python-auto.svg" />
-<img height="40px" src="./assets/golang.svg" />
-<img height="40px" src="./assets/typescript.svg" /> |
-<img height="40px" src="./assets/mysql-auto.svg" />
-<img height="40px" src="./assets/gin-auto.svg" />
-<img height="40px" src="./assets/biome-auto.svg" />
-<img height="40px" src="./assets/tailwindcss-auto.svg" />
-<img height="40px" src="./assets/turborepo-auto.svg" />
-<img height="40px" src="./assets/shadcn-auto.svg" />
-<img height="40px" src="./assets/react-auto.svg" />
-<img height="40px" src="./assets/nextjs-auto.svg" />
-<img height="40px" src="./assets/tanstack-auto.svg" />
-<img height="40px" src="./assets/storybook-auto.svg" />
-<img height="40px" src="./assets/astro.svg" /> |
+| <img height="40px" src="./assets/python-auto.svg" /> <img height="40px" src="./assets/golang.svg" /> <img height="40px" src="./assets/typescript.svg" /> | <img height="40px" src="./assets/mysql-auto.svg" /> <img height="40px" src="./assets/gin-auto.svg" /> <img height="40px" src="./assets/biome-auto.svg" /> <img height="40px" src="./assets/tailwindcss-auto.svg" /> <img height="40px" src="./assets/turborepo-auto.svg" /> <img height="40px" src="./assets/shadcn-auto.svg" /> <img height="40px" src="./assets/react-auto.svg" /> <img height="40px" src="./assets/nextjs-auto.svg" /> <img height="40px" src="./assets/tanstack-auto.svg" /> <img height="40px" src="./assets/storybook-auto.svg" /> <img height="40px" src="./assets/astro.svg" /> |
